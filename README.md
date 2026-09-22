@@ -1,5 +1,3 @@
-以下是为该项目编写的完整 `README.md` 文档，你可以直接将其保存为项目根目录下的 `README.md` 文件。
-
 
 # 🤖 Fund Trading Bot (System One Edition)
 
